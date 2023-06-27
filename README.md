@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 1. Open the project folder in your preferred code editor or Jupyter Notebook.
 
-2. Navigate to the main script file (e.g., "notebook.py" or "notebook.ipynb").
+2. Navigate to the main script file (e.g., "elden_ring_sentiment_analysis.py" or "Elden_Ring_Sentiment_Analysis.ipynb").
 
 3. Run the python script or open the notebook on Google Colab to execute the code.
 
